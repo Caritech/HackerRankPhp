@@ -14,9 +14,9 @@
 
 function birthdayCakeCandles($candles)
 {
-    // Write your code here sdf sdf
-    // Write your code here sdf sd f
-    // Write your code here
+    // Write your code here sdf sdf fgh fg fggfh 
+    // Write your code here sdf sd f fghfg h g
+    // Write your code here f gh fgh 
     // Write your code here 123
     // Write your code here 456
     $greatest = 0;
