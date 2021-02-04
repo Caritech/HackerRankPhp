@@ -18,19 +18,24 @@ function birthdayCakeCandles($candles)
     // Write your code here sdf sd fsdf sdf 
     // Write your code here sdfds 
     // Write your code here 123
-    // Write your code here 456
+    // Write your code here 456a sca sc
+
     $greatest = 0;
     $count_greatest = 0;
 
     foreach ($candles as $c) {
         if ($c > $greatest) {
             $greatest = $c;
+            // Write your code here sdfds 
             // Write your code here 123
-            // Write your code here 456
+            // Write your code here 456a sca sc
             $count_greatest  = 1; //reset to 1
         } else if ($c == $greatest) {
+            // Write your code here sdfds 
             // Write your code here 123
-            // Write your code here 456
+            // Write your code here 456a sca sc
+            $count_greatest++;
+            $count_greatest++;
             $count_greatest++;
             // Write your code here 123
             // Write your code here 456
