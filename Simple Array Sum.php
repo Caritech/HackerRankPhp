@@ -1,7 +1,11 @@
 <?php
 
 /*
+<<<<<<< HEAD
     * Testm Workable
+=======
+    * THIS NOT WORKIONG
+>>>>>>> 9a46e7ec38ab0f7de54f523b94ce27d39016098c
  * Complete the simpleArraySum function below.
  */
 function simpleArraySum($ar)
