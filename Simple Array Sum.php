@@ -1,18 +1,19 @@
 <?php
 
 /*
+    * THIS NOT WORKIONG
  * Complete the simpleArraySum function below.
  */
-function simpleArraySum($ar) {
+function simpleArraySum($ar)
+{
     /*
      * Write your code here.
      */
-     $sum = 0;
-     foreach($ar as $a){
-         $sum += $a;
-     }
-     return $sum;
-
+    $sum = 0;
+    foreach ($ar as $a) {
+        $sum += $a;
+    }
+    return $sum;
 }
 
 $fptr = fopen(getenv("OUTPUT_PATH"), "w");
