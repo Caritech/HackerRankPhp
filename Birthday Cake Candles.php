@@ -12,6 +12,8 @@
 function birthdayCakeCandles($candles)
 {
     // Write your code here
+    // Write youra ss as acode here
+    // Write your code here
     $greatest = 0;
     $count_greatest = 0;
 
