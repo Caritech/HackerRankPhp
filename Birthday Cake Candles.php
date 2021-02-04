@@ -35,6 +35,8 @@ function birthdayCakeCandles($candles)
             // Write your code here 123
             // Write your code here 456a sca sc
             $count_greatest++;
+            $count_greatest++;
+            $count_greatest++;
         }
     }
     return $count_greatest;
