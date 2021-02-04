@@ -3,6 +3,8 @@
 /*
     * Testm Workable
  * Complete the simpleArraySum function below.
+ * sdfsdfsdf sdf sdf 
+ * s s fsd fs
  */
 function simpleArraySum($ar)
 {
