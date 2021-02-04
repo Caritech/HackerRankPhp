@@ -5,18 +5,20 @@
  *
  * The function is expected to return an INTEGER.
  * The function accepts INTEGER_ARRAY candles as parameter.
+ * ----BNBNB
  */
 
-function birthdayCakeCandles($candles) {
+function birthdayCakeCandles($candles)
+{
     // Write your code here
     $greatest = 0;
     $count_greatest = 0;
-    
-    foreach($candles as $c){
-        if($c > $greatest){
+
+    foreach ($candles as $c) {
+        if ($c > $greatest) {
             $greatest = $c;
             $count_greatest  = 1; //reset to 1
-        }else if($c == $greatest){
+        } else if ($c == $greatest) {
             $count_greatest++;
         }
     }
