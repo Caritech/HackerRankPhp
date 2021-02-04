@@ -7,11 +7,17 @@
  * The function accepts INTEGER_ARRAY candles as parameter.
  * ----BNBNB
  * ---HELLO
+ * ---HELLO
+ * ---HELLO
+ * ---HELLO
  */
 
 function birthdayCakeCandles($candles)
 {
     // Write your code here
+    // Write your code here 123
+    // Write your code here 345
+    // Write your code here 456
     $greatest = 0;
     $count_greatest = 0;
 
